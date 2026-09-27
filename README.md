@@ -1,0 +1,2 @@
+# premium-shaper-tool-001-shaper-tool-grinding-stroke
+Stop digging through notebooks and guesswork—your shaper tool's grinding history and stroke set configurations deserve a single, organized hub that eliminates wasted setup time.  This Notion template transforms scattered notes into a centralized system for tracking every grinding session, stroke set variation, and craft project. Instead of relying
